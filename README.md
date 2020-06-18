@@ -7,6 +7,7 @@ Python 3
 - plotly
 - Dash
 - jupyterlab-Dash
-- Flask (for the app to run with the flask backend)
--The bank-full.csv and portugal mod.csv are for the project done through dashboard.py
--The rest of the csv files are for the visualization-assignment-Soumonos.ipynb
+- Flask (for the app to run with the flask backend).
+
+- The bank-full.csv and portugal mod.csv are for the project done through dashboard.py
+ and the rest of the csv files are for the visualization-assignment-Soumonos.ipynb
