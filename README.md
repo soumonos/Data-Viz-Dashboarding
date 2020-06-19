@@ -1,6 +1,6 @@
 # Data-Viz-Dashboarding
 
-- The Dashboard.py is for the advanced case study visualization dashboard. The visualization-assignment-Soumonos.ipynb indicates basic plots and functionalities with plotly-Dash
+- The dashboard.py is for the advanced case study visualization dashboard. The visualization-assignment-Soumonos.ipynb indicates basic plots and functionalities with plotly-Dash
 Requirements:
 Python 3
 - pandas
